@@ -4,12 +4,7 @@ layout: page
 
 # About Me
 
-
-<img src=images/cat.JPG width=50% />
-
-<div align=right>  
-<img src="images/cat.JPG" width=30%> 
-</div>
+<img src="images/cat.JPG" class="floatpic">
 
 
 Here is **1111 (test name)**.<br>
