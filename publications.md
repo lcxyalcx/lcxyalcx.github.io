@@ -8,12 +8,20 @@ title: Publications
 
 ## 2025
 
-<img src="images/publication_preview/wave-mechanics.png" class="floatpic" style="width: 20%; height: auto;">
+<div>
+<img src="images/publication_preview/wave-mechanics.png">
+</div>
+<br>
 Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix
 Ming Wen^, Jiaqi Zhu^, Yuedong Xu*, and Yipeng Zhou, Dingding Han
 NeurIPS, 2025
 
-<img src="images/publication_preview/nsdi2025.png" class="floatpic" style="width: 20%; height: auto;">
+<div>
+<img src="images/publication_preview/nsdi2025.png" 
+ style="width: 20%; height: auto;">
+</div>
+<br>
+
 Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
 Zhiyi Yao^, Pengbo Hu^, Congcong Miao^, and Xuya Jia, Zuning Liang, Yuedong Xu*, Chunzhi He, Hao Lu, Mingzhuo Chen, Xiang Li, others
 USENIX NSDI, 2025
