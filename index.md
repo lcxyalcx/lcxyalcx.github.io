@@ -4,7 +4,13 @@ layout: page
 
 # About Me
 
-![](images/cat.JPG)
+
+<img src=images/cat.JPG width=50% />
+
+<div align=right>  
+<img src="images/cat.JPG" width=30%> 
+</div>
+
 
 Here is **1111 (test name)**.<br>
 
