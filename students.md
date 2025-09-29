@@ -4,25 +4,56 @@ permalink: /students/index.html
 title: Students
 ---
 
-## Scholarships
+## Students
 
-- May 2025：**Cambridge CSC Trust Scholarship** (totally £190,000 for tuition waiver and stipend)
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, Five times)<br>Combined degree scholarship between FZU and Maynooth<br>
+**PhD Students:**
 
-## Competitions
+Mr. Chen Qi (graduated from Fudan Univ., 2026)
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize in China Undergraduate Mathematical Contest in Modeling
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+Mr. Liu Yuxuan (graduated from Fudan Univ., 2026)
+
+Mr. Liang Zuning (graduated from Fudan Univ., 2025)
+
+Mr. Liu Boliang (graduated from Fudan Univ., 2025)
+
+Mr. Tian Hang (graduated from Shanghai Jiao Tong Univ., 2025)
+
+Ms. Wen Ming (graduated from Fudan Univ., 2025)
+
+Mr. Zhou Zhou (graduated from UESTC, 2024)
+
+Mr. Yao Zhiyi (graduated from Fudan Univ., 2023)
+
+**Master Students:**
+
+Mr. Zhu Jiaqi (graduated from Fudan Univ., 2025)
+
+Mr. Yuan Xinyu (graduated from Fudan Univ., 2025)
+
+Mr. Hu Ziyu (graduated from Fudan Univ., 2025)
+
+Mr. Liu Chenxi (graduated from Nanjing Univ., 2025)
+
+Mr. Chen Zhoukai (graduated from Northeastern Univ., 2025)
+
+Mr. Gao Chiyifeng (graduated from Shandong Univ., 2025)
+
+Ms. Kong Linggao (graduated from Fudan Univ., 2024)
+
+Mr. Liu Bingzheng (graduated from Fudan Univ., 2024)
+
+Mr. Peng Xinyu (graduated from Fudan Univ., 2024)
+
+Ms. He Zhaoying (graduated from Sun Yat-sen Univ., 2024)
+
+Mr. Wang Junkai (graduated from Fudan Univ., 2023)
+
+Mr. Ren Ziang (graduated from Fudan Univ., 2023)
+
+Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023)
+
+**Past Students:**
+
+Most graduates joined Tencent, Alibaba, or Huawei, while the rest began their careers in state-owned enterprises or government agencies.
 
 <br>
