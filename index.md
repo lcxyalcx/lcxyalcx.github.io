@@ -6,7 +6,6 @@ layout: page
 
 <img src="images/cat.JPG" class="floatpic">
 
-
 Here is **1111 (test name)**.<br>
 
 I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
