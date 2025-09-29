@@ -4,6 +4,7 @@ layout: page
 
 # About Me
 
+![](images/cat.JPG)
 
 Here is **1111 (test name)**.<br>
 
