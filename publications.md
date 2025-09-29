@@ -9,7 +9,7 @@ title: Publications
 ## 2025
 
 <div>
-<img src="images/publication_preview/wave-mechanics.png">
+<img src="https://github.com/lcxyalcx/lcxyalcx.github.io/blob/main/images/publication_preview/aaai24_wen.png">
 </div>
 <br>
 
