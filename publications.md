@@ -22,6 +22,11 @@ NeurIPS, 2025
 </div>
 <br>
 
+<div>
+<img src="images/fav.png" 
+ style="width: 20%; height: auto;">
+</div>
+<br>
 Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
 Zhiyi Yao^, Pengbo Hu^, Congcong Miao^, and Xuya Jia, Zuning Liang, Yuedong Xu*, Chunzhi He, Hao Lu, Mingzhuo Chen, Xiang Li, others
 USENIX NSDI, 2025
