@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /students/index.html
-title: Awards
+title: Students
 ---
 
 ## Scholarships
