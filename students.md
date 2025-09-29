@@ -6,7 +6,7 @@ title: Students
 
 # Students
 
-**PhD Students:**<br>
+## PhD Students:
 
 Mr. Chen Qi (graduated from Fudan Univ., 2026)
 
@@ -24,9 +24,9 @@ Mr. Zhou Zhou (graduated from UESTC, 2024)
 
 Mr. Yao Zhiyi (graduated from Fudan Univ., 2023)
 
-<br>
 
-**Master Students:**<br>
+
+## Master Students:
 
 Mr. Zhu Jiaqi (graduated from Fudan Univ., 2025)
 
@@ -54,10 +54,8 @@ Mr. Ren Ziang (graduated from Fudan Univ., 2023)
 
 Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023)
 
-<br>
 
-**Past Students:**<br>
+
+## Past Students:
 
 Most graduates joined Tencent, Alibaba, or Huawei, while the rest began their careers in state-owned enterprises or government agencies.
-
-<br>
