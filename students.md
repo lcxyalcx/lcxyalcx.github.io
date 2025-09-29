@@ -6,7 +6,7 @@ title: Students
 
 # Students
 
-**PhD Students:**
+**PhD Students:**<br>
 
 Mr. Chen Qi (graduated from Fudan Univ., 2026)
 
@@ -26,7 +26,7 @@ Mr. Yao Zhiyi (graduated from Fudan Univ., 2023)
 
 <br>
 
-**Master Students:**
+**Master Students:**<br>
 
 Mr. Zhu Jiaqi (graduated from Fudan Univ., 2025)
 
@@ -56,7 +56,7 @@ Mr. Ye Leyi (graduated from Southwest Jiaotong Univ., 2023)
 
 <br>
 
-**Past Students:**
+**Past Students:**<br>
 
 Most graduates joined Tencent, Alibaba, or Huawei, while the rest began their careers in state-owned enterprises or government agencies.
 
