@@ -4,7 +4,7 @@ layout: page
 
 # About Xu
 
-<img src="images/prof_pic.jpg" class="floatpic" style="width: 20%; height: auto;">
+<img src="images/prof_pic.jpg" class="floatpic" style="width: 30%; height: auto;">
 
 Yuedong Xu is a Professor with College of Computer Science and Artificial Intelligence, Fudan University, China. He received the Ph.D. degree from The Chinese University of Hong Kong in 2009. From 2009 to 2012, he was a Postdoctoral fellow with INRIA Sophia Antipolis and Université d’Avignon, France. He received the French MENRT fellowship in 2009, the OKAWA Foundation research grant in 2019, and the outstanding teacher nomination award in 2022. He serves an an associate editor for IEEE Transactions on Network Science and Engineering. His areas of interests include foundation model training and inference systems, and multimedia networking. He has published a number of papers in premier conferences and journals including USENIX NSDI, USENIX ATC, ACM Mobisys, ACM CoNEXT, ACM Mobihoc, IEEE Infocom, IEEE/ACM ToN and IEEE JSAC.
 
