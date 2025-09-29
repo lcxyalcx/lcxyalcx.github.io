@@ -4,7 +4,7 @@ permalink: /students/index.html
 title: Students
 ---
 
-## Students
+# Students
 
 **PhD Students:**
 
