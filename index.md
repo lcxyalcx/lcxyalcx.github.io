@@ -4,6 +4,15 @@ layout: page
 
 # About 
 
+- Yuedong Xu 徐跃东
+
+- Professor 
+
+- Office: Room C5014, Interdisciplinary Building No.2, Fudan University Jiangwan Campus.
+
+- E-mail: ydxu@fudan.edu.cn
+
+
 <img src="images/prof_pic.jpg" class="floatpic" style="width: 30%; height: auto;">
 
 Yuedong Xu is a Professor with College of Computer Science and Artificial Intelligence, Fudan University, China. He received the Ph.D. degree from The Chinese University of Hong Kong in 2009. From 2009 to 2012, he was a Postdoctoral fellow with INRIA Sophia Antipolis and Université d’Avignon, France. He received the French MENRT fellowship in 2009, the OKAWA Foundation research grant in 2019, and the outstanding teacher nomination award in 2022. He serves an an associate editor for IEEE Transactions on Network Science and Engineering. 
@@ -14,9 +23,7 @@ His areas of interests include foundation model training and inference systems, 
 - AI for Networking
 - Multi-modal LLM Alignment
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at ydxu@fudan.edu.cn
-
----
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at ydxu@fudan.edu.cn.
 
 ## News and Updates
 
