@@ -14,11 +14,10 @@ His areas of interests include foundation model training and inference systems, 
 - E-mail: ydxu@fudan.edu.cn
 
 ## Research Interests
+
 - Network for AI
 - AI for Networking
 - Multi-modal LLM Alignment
-
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at ydxu@fudan.edu.cn.
 
 ## News and Updates
 
