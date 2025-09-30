@@ -8,10 +8,9 @@ title: Publications
 
 ## 2025
 
-<div>
-<img src="https://github.com/lcxyalcx/lcxyalcx.github.io/blob/main/images/publication_preview/aaai24_wen.png">
-</div>
-<br>
+<img src="images/publication_preview/infocom25_wang.png" class="floatpic" style="width: 20%; height: auto;">
+
+<img src="images/fav.png" class="floatpic" style="width: 20%; height: auto;">
 
 - Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix
 Ming Wen^, Jiaqi Zhu^, Yuedong Xu*, and Yipeng Zhou, Dingding Han
@@ -19,12 +18,6 @@ NeurIPS, 2025
 
 <div>
 <img src="images/publication_preview/nsdi2025.png" 
- style="width: 20%; height: auto;">
-</div>
-<br>
-
-<div>
-<img src="images/fav.png" 
  style="width: 20%; height: auto;">
 </div>
 <br>
