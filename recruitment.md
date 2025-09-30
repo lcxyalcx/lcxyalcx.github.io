@@ -6,13 +6,14 @@ title: Recruitment
 
 # Recruitment
 
-Admission is conducted through the School of Computing and Intelligent Innovation, with the major being Computer Science and Technology. We welcome students interested in computer network systems, distributed machine learning systems, data-driven network design, and machine learning algorithm research to apply for direct admission or pursue master's and doctoral degrees! We recommend reaching out to current graduate students in the research group to gain a thorough understanding of the group's research directions, technical requirements, and academic environment.<br>
+Admission is conducted through the School of Computing and Intelligent Innovation, with the major being Computer Science and Technology. We welcome students interested in computer network systems, distributed machine learning systems, data-driven network design, and machine learning algorithm research to apply for direct admission or pursue master's and doctoral degrees! We recommend reaching out to current graduate students in the research group to gain a thorough understanding of the group's research directions, technical requirements, and academic environment.<br><br>
 
-Ph.D. research directions for the coming years: Large Model Training System Design (system research) Inference System Design (system research) Trustworthy and Distributed Artificial Intelligence (algorithm research) Reference paper: https://github.com/lambda7xx/awesome-AI-system<br>
+
+Ph.D. research directions for the coming years: Large Model Training System Design (system research) Inference System Design (system research) Trustworthy and Distributed Artificial Intelligence (algorithm research) Reference paper: https://github.com/lambda7xx/awesome-AI-system<br><br>
 
 Ph.D. training: a) Research focus on distributed AI algorithms and systems; b) Requires either strong mathematical skills for algorithmic approaches or solid programming foundations and hands-on capabilities for systems-oriented work; c) Collaboration with top-tier international research institutions and scholars; d) Close partnerships with leading internet companies.<br>
 
-We also maintain ongoing recruitment for undergraduates and postdoctoral researchers interested in AI systems and trustworthy AI.<br>
+We also maintain ongoing recruitment for undergraduates and postdoctoral researchers interested in AI systems and trustworthy AI.<br><br>
 
 For 2025, we are recruiting one master's candidate through the integrated circuit special program and one enterprise-collaborative master's candidate (both for Fall 2026 enrollment).
 
