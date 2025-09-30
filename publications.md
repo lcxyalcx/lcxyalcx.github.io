@@ -138,30 +138,30 @@ IEEE TNSE, 2022
 
 <img src="https://lcxyalcx.github.io/images/publication_preview/ton21_chen.png" class="floatpic" style="width: 50%; height: auto;">
 
-Enabling Practical Large-scale MIMO in WLANs with Hybrid Beamforming
+- Enabling Practical Large-scale MIMO in WLANs with Hybrid Beamforming
 Zhe Chen, Xu Zhang, Sulei Wang, and Yuedong Xu*, Jie Xiong, Xin Wang
 IEEE/ACM Trans. Networking, 2021
 
 <img src="https://lcxyalcx.github.io/images/publication_preview/jsac21_zheng.png" class="floatpic" style="width: 40%; height: auto;">
 
-Enabling Robust DRL-driven Networking Systems via Teacher-Student Learning
+- Enabling Robust DRL-driven Networking Systems via Teacher-Student Learning
 Ying Zheng, Lixiang Lin, Tianqi Zhang, and Haoyu Chen, Qingyang Duan, Yuedong Xu, Xin Wang
 IEEE JSAC, 2021
 
 <img src="https://lcxyalcx.github.io/images/publication_preview/mobisys21_gu.png" class="floatpic" style="width: 50%; height: auto;">
 
-yrLoc: a Low-cost Multi-technology MIMO Localization System with a Single RF Chain
+- yrLoc: a Low-cost Multi-technology MIMO Localization System with a Single RF Chain
 Zhihao Gu, Taiwei He, Junwei Yin, and Yuedong Xu*, Jun Wu
 ACM Mobisys, 2021
 
-Towards Real-time Video Caching at Edge Servers: A Cost-aware Deep Q-learning Solution
+- Towards Real-time Video Caching at Edge Servers: A Cost-aware Deep Q-learning Solution
 Laizhong Cui, Erchao Ni, Yipeng Zhou, and Zhi Wang, Lei Zhang, Jiangchuan Liu, Yuedong Xu
 IEEE Trans. Multimedia, 2021
 
-Evolution of Transaction Pattern in Ethereum: A Temporal Graph Perspective
+- Evolution of Transaction Pattern in Ethereum: A Temporal Graph Perspective
 Qianlan Bai, Chao Zhang, Nianyi Liu, and Xiaowei Chen, Yuedong Xu*, Xin Wang
 IEEE TCSS, 2021
 
-Leveraging Domain Knowledge for Robust Deep Reinforcement Learning in Networking
+- Leveraging Domain Knowledge for Robust Deep Reinforcement Learning in Networking
 Ying Zheng, Haoyu Chen, Qingyang Duan, and Lixiang Lin, Yiyang Shao, Wei Wang, Xin Wang, Yuedong Xu*
 IEEE Infocom, 2021
