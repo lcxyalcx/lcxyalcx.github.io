@@ -11,14 +11,12 @@ title: Publications
 <img src="https://lcxyalcx.github.io/images/publication_preview/wave-mechanics.png" class="floatpic" style="width: 20%; height: auto;">
 
 - Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix
-  
 Ming Wen^, Jiaqi Zhu^, Yuedong Xu*, and Yipeng Zhou, Dingding Han
 NeurIPS, 2025
 
 <img src="https://lcxyalcx.github.io/images/publication_preview/nsdi2025.png" class="floatpic" style="width: 20%; height: auto;">
 
 - Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
-
 Zhiyi Yao^, Pengbo Hu^, Congcong Miao^, and Xuya Jia, Zuning Liang, Yuedong Xu*, Chunzhi He, Hao Lu, Mingzhuo Chen, Xiang Li, others
 USENIX NSDI, 2025
 
