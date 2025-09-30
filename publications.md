@@ -14,27 +14,27 @@ title: Publications
 Ming Wen^, Jiaqi Zhu^, Yuedong Xu*, and Yipeng Zhou, Dingding Han
 NeurIPS, 2025
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/nsdi2025.png" class="floatpic" style="width: 25%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/nsdi2025.png" class="floatpic" style="width: 40%; height: auto;">
 
 - Holmes: Localizing Irregularities in LLM Training with Mega-scale GPU Clusters
 Zhiyi Yao^, Pengbo Hu^, Congcong Miao^, and Xuya Jia, Zuning Liang, Yuedong Xu*, Chunzhi He, Hao Lu, Mingzhuo Chen, Xiang Li, others
 USENIX NSDI, 2025
 
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/atc2025.png" class="floatpic" style="width: 30%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/atc2025.png" class="floatpic" style="width: 50%; height: auto;">
 
 - PopFetcher: Towards Accelerated Mixture-of-Experts Training Via Popularity Based Expert-Wise Prefetch
 Junyi Zhang, Chuanhu Ma, Xiong Wang, and Yuntao Nie, Yuqing Li, Yuedong Xu, Xiaofei Liao, Bo Li, Hai Jin
 USENIX ATC, 2025
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/infocom25_yao.png" class="floatpic" style="width: 30%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/infocom25_yao.png" class="floatpic" style="width: 45%; height: auto;">
 
 - MemFerry: A Fast and Memory Efficient Offload Training Framework with Hybrid GPU Computation
 Zhiyi Yao, Zuning Liang, Yuedong Xu*, and Jin Zhao, Jessie Hui Wang, Tong Li
 IEEE Infocom, 2025
 
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/infocom25_wang.png" class="floatpic" style="width: 30%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/infocom25_wang.png" class="floatpic" style="width: 45%; height: auto;">
 
 - Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems
 Junkai Wang, Xutong Liu*, Jinhang Zuo, and Yuedong Xu*
@@ -47,13 +47,13 @@ IEEE Trans. Networking, 2025
 
 ## 2024
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/infocom24_wang.png" class="floatpic" style="width: 35%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/infocom24_wang.png" class="floatpic" style="width: 50%; height: auto;">
 
 - Learning Context-aware Probabilistic Maximum Coverage Bandits: A Variance-adaptive Approach
 Xutong Liu, Jinhang Zuo, Junkai Wang, and Zhiyong Wang, Yuedong Xu*, John CS Lui
 IEEE Infocom, 2024
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/aaai24_wen.png" class="floatpic" style="width: 35%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/aaai24_wen.png" class="floatpic" style="width: 60%; height: auto;">
 
 - Communication Efficient Distributed Newton Method Over Unreliable Networks
 Ming Wen, Chengchang Liu, and Yuedong Xu*
@@ -80,7 +80,7 @@ IEEE ICPP, 2024
 Haoyu Chen, Yuxin Zhang, Jin Zhao, and Xin Wang, Yuedong Xu
 IEEE ICPP, 2024
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/minerva.png" class="floatpic" style="width: 30%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/minerva.png" class="floatpic" style="width: 50%; height: auto;">
 
 - Minerva: Decentralized Collaborative Query Processing over Interplanetary File System
 Zhiyi Yao, Bowen Ding, Qianlan Bai, and Yuedong Xu*
@@ -88,13 +88,13 @@ IEEE Trans. Big Data, 2024
 
 ## 2023
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/tpds23_duan.png" class="floatpic" style="width: 35%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/tpds23_duan.png" class="floatpic" style="width: 60%; height: auto;">
 
 - Accelerating Distributed DNN Training via Transport Layer Scheduling
 Qingyang Duan, Chao Peng, Zeqin Wang, and Yuedong Xu*, Shaoteng Liu, Jun Wu, John CS Lui
 IEEE TPDS, 2023
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/tifs23_bai.png" class="floatpic" style="width: 35%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/tifs23_bai.png" class="floatpic" style="width: 60%; height: auto;">
 
 - Blockchain Mining with Multiple Selfish Miners
 Qianlan Bai, Yuedong Xu*, Nianyi Liu, and Xin Wang
@@ -111,7 +111,7 @@ J. Syst. Archit., 2023
 
 ## 2022
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/ton22_wanghui.png" class="floatpic" style="width: 35%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/ton22_wanghui.png" class="floatpic" style="width: 60%; height: auto;">
 
 - Offloading Elastic Transfers to Opportunistic Vehicular Networks Based on Imperfect Trajectory Prediction
 Chao Xu, Jessie Hui Wang, Jilong Wang, and Tao Yu, Yipeng Zhou, Yuedong Xu, Di Wu, Changqing An
@@ -121,13 +121,13 @@ IEEE/ACM Trans. Networking, 2022
 Qingyang Duan, Zeqin Wang, Yuedong Xu*, and Shaoteng Liu, Jun Wu
 IEEE Infocom, 2022
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/tsmc22_yuan.png" class="floatpic" style="width: 30%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/tsmc22_yuan.png" class="floatpic" style="width: 40%; height: auto;">
 
 - Toward Packet Routing with Fully Distributed Multiagent Deep Reinforcement Learning
 Xinyu You, Xuanjie Li, Yuedong Xu*, and Hui Feng, Jin Zhao, Huaicheng Yan
 IEEE TSMC: Systems, 2022
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/pcn22.png" class="floatpic" style="width: 30%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/pcn22.png" class="floatpic" style="width: 40%; height: auto;">
 
 - Understanding the Benefit of Being Patient in Payment Channel Networks
 Qianlan Bai, Yuedong Xu*, and Xin Wang
@@ -136,19 +136,19 @@ IEEE TNSE, 2022
 
 ## 2021
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/ton21_chen.png" class="floatpic" style="width: 30%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/ton21_chen.png" class="floatpic" style="width: 50%; height: auto;">
 
 Enabling Practical Large-scale MIMO in WLANs with Hybrid Beamforming
 Zhe Chen, Xu Zhang, Sulei Wang, and Yuedong Xu*, Jie Xiong, Xin Wang
 IEEE/ACM Trans. Networking, 2021
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/jsac21_zheng.png" class="floatpic" style="width: 30%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/jsac21_zheng.png" class="floatpic" style="width: 40%; height: auto;">
 
 Enabling Robust DRL-driven Networking Systems via Teacher-Student Learning
 Ying Zheng, Lixiang Lin, Tianqi Zhang, and Haoyu Chen, Qingyang Duan, Yuedong Xu, Xin Wang
 IEEE JSAC, 2021
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/mobisys21_gu.png" class="floatpic" style="width: 35%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/mobisys21_gu.png" class="floatpic" style="width: 50%; height: auto;">
 
 yrLoc: a Low-cost Multi-technology MIMO Localization System with a Single RF Chain
 Zhihao Gu, Taiwei He, Junwei Yin, and Yuedong Xu*, Jun Wu
