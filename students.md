@@ -56,4 +56,4 @@ title: Students
 
 
 ## Past Students:<br>
-   Most graduates joined Tencent, Alibaba, or Huawei, while the rest began their careers in state-owned enterprises or government agencies.
+ Most graduates joined Tencent, Alibaba, or Huawei, while the rest began their careers in state-owned enterprises or government agencies.
