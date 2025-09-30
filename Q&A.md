@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: / Q&A/index.html
+permalink: /Q&A/index.html
 title:  Q&A
 ---
 # Q&A
