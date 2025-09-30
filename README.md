@@ -2,6 +2,7 @@
 Step1: 
 fork https://github.com/lcxyalcx/lcxyalcx.github.io
 仓库名最好设置为username.github.io
+
 Step2:
 Settings->Pages->Select Branch main->Save->等待几分钟即可
 
