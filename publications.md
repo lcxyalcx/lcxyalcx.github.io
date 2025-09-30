@@ -8,7 +8,7 @@ title: Publications
 
 ## 2025
 
-<img src="https://lcxyalcx.github.io/images/publication_preview/wave-mechanics.png" class="floatpic" style="width: 25%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/wave-mechanics.png" style="width: 25%; height: auto;">
 
 - Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix
 Ming Wen^, Jiaqi Zhu^, Yuedong Xu*, and Yipeng Zhou, Dingding Han
