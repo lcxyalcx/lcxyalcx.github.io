@@ -12,13 +12,6 @@ title: Publications
 
 <img src="./images/publication_preview/infocom25_wang.png" class="floatpic" style="width: 20%; height: auto;">
 
-<img src="/images/publication_preview/infocom25_wang.png" class="floatpic" style="width: 20%; height: auto;">
-
-<div class="third">
-<img src="//images/publication_preview/infocom25_wang.png">
-<img src="/images/publication_preview/infocom25_wang.png">
-<img src="/images/publication_preview/infocom25_wang.png">
-</div>
 
 - Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix
 Ming Wen^, Jiaqi Zhu^, Yuedong Xu*, and Yipeng Zhou, Dingding Han
