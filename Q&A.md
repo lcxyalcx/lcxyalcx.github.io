@@ -5,21 +5,24 @@ title:  Q&A
 ---
 # Q&A
 
-Q1: Where have previous students gone?
+Q1: Where have previous students gone?<br>
 
 A: They have pursued advanced studies under renowned scholars, such as:
-UChicago (BA → PhD), Duke (MA → PhD), Notre Dame (BA → PhD), UCLA (BA → PhD), HKUST (BA → PhD), OSU (BA → PhD), Duke (BA → PhD), Yale (Bachelor's → PhD), ETH Zurich (Bachelor's → PhD), UWM (Bachelor's → PhD), UT Austin (Bachelor's → PhD), as well as UPenn (Bachelor's → MS), UCLA (Bachelor's → MS), UCSD (Bachelor's → MS), Cornell (Bachelor's → MS), CMU (Bachelor's → MS), Columbia (Bachelor's → MS), NYU (Bachelor's to Master's), USC (Bachelor's to Master's, 1), Duke (Bachelor's to Master's), etc.; or join renowned IT companies such as Tencent, Alibaba DAMO Academy/Alibaba Cloud (Master's), ByteDance (Master's), Huawei (Master's), or serve the nation through programs like Shanghai's Selected Cadre Program.
+UChicago (BA → PhD), Duke (MA → PhD), Notre Dame (BA → PhD), UCLA (BA → PhD), HKUST (BA → PhD), OSU (BA → PhD), Duke (BA → PhD), Yale (Bachelor's → PhD), ETH Zurich (Bachelor's → PhD), UWM (Bachelor's → PhD), UT Austin (Bachelor's → PhD), as well as UPenn (Bachelor's → MS), UCLA (Bachelor's → MS), UCSD (Bachelor's → MS), Cornell (Bachelor's → MS), CMU (Bachelor's → MS), Columbia (Bachelor's → MS), NYU (Bachelor's to Master's), USC (Bachelor's to Master's, 1), Duke (Bachelor's to Master's), etc.; or join renowned IT companies such as Tencent, Alibaba DAMO Academy/Alibaba Cloud (Master's), ByteDance (Master's), Huawei (Master's), or serve the nation through programs like Shanghai's Selected Cadre Program.<br>
 
-Q2: Admission Requirements?
+Q2: Admission Requirements?<br>
 
-A: Self-motivated, diligent and down-to-earth, sunny disposition, open to diverse perspectives, neither overestimating abilities nor undervaluing oneself, with the perseverance to complete tasks thoroughly. Technical requirements for Machine Learning Network Systems track: Proficiency in one programming language (C/C++/Python/Go). Technical requirements for Trustworthy and Distributed Machine Learning track: Strong foundational math coursework, Python programming proficiency, or primary participation in significant competitions or relevant innovation projects.
+A: Self-motivated, diligent and down-to-earth, sunny disposition, open to diverse perspectives, neither overestimating abilities nor undervaluing oneself, with the perseverance to complete tasks thoroughly. Technical requirements for Machine Learning Network Systems track: Proficiency in one programming language (C/C++/Python/Go). Technical requirements for Trustworthy and Distributed Machine Learning track: Strong foundational math coursework, Python programming proficiency, or primary participation in significant competitions or relevant innovation projects.<br>
 
-Q3: What are the applicant requirements?
+Q3: What are the applicant requirements?<br>
 
-A: We welcome outstanding candidates from all backgrounds. Our lab members primarily consist of Fudan University graduates, alongside exceptional students from Nanjing University, Wuhan University, Sun Yat-sen University, Northeastern University, Xiamen University, Xidian University, Shandong University, East China Normal University, Hohai University, and Shanghai University.
-Q4: Collaboration on publications with graduate/undergraduate students?
-A: Published papers in CAC-recognized A/B-tier international journals/conferences such as USENIX NSDI, ACM Mobisys, ACM CoNEXT, IEEE Infocom, IEEE JSAC, IEEE/ACM ToN, etc.
+A: We welcome outstanding candidates from all backgrounds. Our lab members primarily consist of Fudan University graduates, alongside exceptional students from Nanjing University, Wuhan University, Sun Yat-sen University, Northeastern University, Xiamen University, Xidian University, Shandong University, East China Normal University, Hohai University, and Shanghai University.<br>
 
+Q4: Collaboration on publications with graduate/undergraduate students?<br>
+
+A: Published papers in CAC-recognized A/B-tier international journals/conferences such as USENIX NSDI, ACM Mobisys, ACM CoNEXT, IEEE Infocom, IEEE JSAC, IEEE/ACM ToN, etc.<br>
+
+---
 
 Q1: 往届学生去向？ 
 

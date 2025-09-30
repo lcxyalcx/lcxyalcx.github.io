@@ -15,6 +15,8 @@ Ph.D. training: a) Research focus on distributed AI algorithms and systems; b) R
 We also maintain ongoing recruitment for undergraduates and postdoctoral researchers interested in AI systems and trustworthy AI.
 For 2025, we are recruiting one master's candidate through the integrated circuit special program and one enterprise-collaborative master's candidate (both for Fall 2026 enrollment).
 
+---
+
 依托计算与智能创新学院招生，专业为计算机科学与技术。欢迎有志于计算机网络系统、分布式机器学习系统、数据驱动的网络设计、机器学习算法研究的同学保送和报考硕士研究生、博士研究生！建议多联系课题组在读研究生充分了解课题组的研究方向、技术门槛和氛围。
 
 未来几年博士生招生方向：大模型训练系统设计（系统研究）、推理系统设计（系统研究）、可信与分布式人工智能（算法研究）。参考论文：https://github.com/lambda7xx/awesome-AI-system
