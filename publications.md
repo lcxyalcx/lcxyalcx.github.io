@@ -8,7 +8,8 @@ title: Publications
 
 ## 2025
 
-<img src="images/publication_preview/infocom25_wang.png" class="floatpic" style="width: 20%; height: auto;">
+<img src="https://lcxyalcx.github.io/images/publication_preview/infocom25_wang.png" class="floatpic" style="width: 20%; height: auto;">
+
 
 <img src="images/fav.png" class="floatpic" style="width: 20%; height: auto;">
 
